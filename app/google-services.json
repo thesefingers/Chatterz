@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524037417802",
+    "project_id": "chatterz-79da9",
+    "storage_bucket": "chatterz-79da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524037417802:android:6640587c32af971ef3efb3",
+        "android_client_info": {
+          "package_name": "com.smartherd.chatterz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524037417802-8clmn94cdmul7cpns82d4k777vfnn5tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCgP6YekNOiusPA5pOMUjuH9l2z2ZLw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524037417802-8clmn94cdmul7cpns82d4k777vfnn5tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
